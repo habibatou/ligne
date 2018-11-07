@@ -10,6 +10,10 @@ import org.springframework.data.repository.query.Param;
 *
 *habi
 */
+/*
+*
+*habi
+*/
 
 public interface OperationRepository extends JpaRepository<Operation, Long>{
 
