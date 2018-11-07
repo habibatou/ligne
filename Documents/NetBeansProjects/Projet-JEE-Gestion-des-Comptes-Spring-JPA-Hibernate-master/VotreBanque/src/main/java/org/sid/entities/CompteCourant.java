@@ -6,6 +6,8 @@ import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
 
 /*
+*Habi
+/*
 *habi
 */
 @Entity
