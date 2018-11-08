@@ -9,7 +9,7 @@
     <version>1.0</version>
     <packaging>war</packaging>
 
-    <name>genealogie</name>
+    <name>GestionEnLigne</name>
     <description>Project Généalogie réalisé avec la technologie Spring 1.5.14</description>
 
     <parent>
