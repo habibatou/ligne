@@ -1,0 +1,13 @@
+com\smag\genealogie\repository\PersonneRepository.class
+com\smag\genealogie\resource\WebSocketEventListener.class
+com\smag\genealogie\resource\PersonneRest.class
+com\smag\genealogie\resource\ChatController.class
+com\smag\genealogie\model\Enfants.class
+com\smag\genealogie\model\Personne.class
+com\smag\genealogie\resource\Index.class
+com\smag\genealogie\GenealogieApplication.class
+com\smag\genealogie\model\ChatMessage$MessageType.class
+com\smag\genealogie\model\ChatMessage.class
+com\smag\genealogie\model\Quizz.class
+com\smag\genealogie\service\PersonneService.class
+com\smag\genealogie\config\WebSocketConfig.class
